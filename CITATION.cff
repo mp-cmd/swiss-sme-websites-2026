@@ -10,6 +10,8 @@ authors:
 date-released: 2026-09-27
 license: CC-BY-4.0
 url: "https://hallebardier.com/en/swiss-sme-website-study/"
+doi: 10.5281/zenodo.23192819
+repository: "https://github.com/mp-cmd/swiss-sme-websites-2026"
 keywords:
   - Switzerland
   - SME

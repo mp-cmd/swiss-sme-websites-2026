@@ -39,6 +39,8 @@ configs:
 
 # Swiss SME Websites 2026: 10,000 sites audited, canton by canton
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23192819.svg)](https://doi.org/10.5281/zenodo.23192819)
+
 Aggregated measurements of 10,000 websites of Swiss small and medium-sized
 businesses, drawn at random from the Swiss commercial register in September
 2026. Proportions only: no company name, no website address, no figure for a
@@ -48,12 +50,15 @@ group of fewer than 30 sites.
 - **Study page (EN):** https://hallebardier.com/en/swiss-sme-website-study/
 - **Study page (DE):** https://hallebardier.com/de/studie-websites-kmu-schweiz/
 - **Source JSON:** https://hallebardier.com/etude-pme-2026.json
+- **DOI (Zenodo, all versions):** https://doi.org/10.5281/zenodo.23192819
+- **GitHub:** https://github.com/mp-cmd/swiss-sme-websites-2026
+- **Hugging Face:** https://huggingface.co/datasets/mp-cmd/swiss-sme-websites-2026
 - **Author:** Hallebardier (Maxime Perriard), Fribourg, Switzerland
 - **Licence:** CC BY 4.0
 
 ## How to cite
 
-> Hallebardier (2026). *Swiss SME Websites 2026: 10,000 sites audited, canton by canton.* https://hallebardier.com/en/swiss-sme-website-study/
+> Hallebardier (2026). *Swiss SME Websites 2026: 10,000 sites audited, canton by canton* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23192819
 
 When you publish a figure from this dataset, please link to the study page.
 
