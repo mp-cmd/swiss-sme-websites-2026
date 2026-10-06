@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the study page."
+type: dataset
+title: "Swiss SME Websites 2026: 10,000 sites audited, canton by canton"
+authors:
+  - name: "Hallebardier"
+    website: "https://hallebardier.com/"
+  - family-names: "Perriard"
+    given-names: "Maxime"
+date-released: 2026-09-27
+license: CC-BY-4.0
+url: "https://hallebardier.com/en/swiss-sme-website-study/"
+keywords:
+  - Switzerland
+  - SME
+  - websites
+  - structured data
+  - llms.txt
+  - data protection
+abstract: >-
+  Aggregated measurements of 10,000 websites of Swiss small and medium-sized
+  businesses drawn at random from the Swiss commercial register in September
+  2026: HTTPS, mobile viewport, structured data, meta description, robots.txt,
+  sitemap.xml, llms.txt, privacy page, footer year, platform and HTML reception
+  time, per canton, language region and legal form. Proportions only.

@@ -1,0 +1,4 @@
+region,region_en,sites,https_pct,mobile_viewport_pct,html_reception_median_s,html_over_2_5s_pct,html_over_5s_pct,html_median_kb,structured_data_jsonld_pct,meta_description_pct,title_12_chars_plus_pct,sitemap_xml_pct,sitemap_xml_base,robots_txt_pct,robots_txt_base,llms_txt_pct,llms_txt_base,privacy_page_found_pct,privacy_page_base,wordpress_pct,wordpress_version_readable_count,wordpress_outdated_pct_of_readable,copyright_year_shown_pct,copyright_2y_plus_old_pct_of_shown,copyright_5y_plus_old_pct_of_shown
+Suisse alémanique,German-speaking,7267,94.3,90.7,0.18,2.1,0.5,77.7,44.7,61.5,88.2,72.8,7245,78.7,7258,16.5,7188,59.0,6669,34.4,1740,10.1,38.9,26.9,11.5
+Romandie,French-speaking (Romandie),2263,94.6,92.7,0.19,2.8,0.8,100.9,49.6,63.5,89.8,77.3,2259,86.8,2260,18.5,2248,45.7,2065,40.9,625,15.7,41.0,26.9,12.0
+Tessin,Ticino,440,94.5,88.9,0.23,4.3,0.7,85.7,44.5,54.3,87.3,68.0,438,77.0,439,14.3,433,42.7,412,42.5,141,19.9,43.0,37.6,19.0

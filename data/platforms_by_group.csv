@@ -1,0 +1,313 @@
+group_type,group,platform,share_pct
+switzerland,CH,WordPress,36.2
+switzerland,CH,autre ou sur mesure,36.1
+switzerland,CH,Wix,7.9
+switzerland,CH,Squarespace,2.1
+switzerland,CH,Shopify,1.9
+switzerland,CH,Jimdo,1.8
+switzerland,CH,Joomla!,1.7
+switzerland,CH,TYPO3,1.3
+switzerland,CH,BaseKit,1.2
+switzerland,CH,Contao,0.8
+switzerland,CH,Infomaniak,0.8
+switzerland,CH,Starfield,0.5
+region,Romandie,WordPress,40.9
+region,Romandie,autre ou sur mesure,33.9
+region,Romandie,Wix,8.1
+region,Romandie,Infomaniak,2.3
+region,Romandie,Shopify,1.8
+region,Romandie,Squarespace,1.7
+region,Romandie,Joomla!,1.2
+region,Romandie,Starfield,0.9
+region,Romandie,TYPO3,0.7
+region,Suisse alémanique,autre ou sur mesure,36.7
+region,Suisse alémanique,WordPress,34.4
+region,Suisse alémanique,Wix,8.1
+region,Suisse alémanique,Jimdo,2.3
+region,Suisse alémanique,Squarespace,2.2
+region,Suisse alémanique,Shopify,2.0
+region,Suisse alémanique,Joomla!,1.9
+region,Suisse alémanique,TYPO3,1.6
+region,Suisse alémanique,BaseKit,1.5
+region,Suisse alémanique,Contao,1.1
+region,Suisse alémanique,Starfield,0.4
+region,Tessin,WordPress,42.5
+region,Tessin,autre ou sur mesure,37.7
+region,Tessin,Wix,5.2
+region,Tessin,Squarespace,2.0
+region,Tessin,Joomla!,1.8
+region,Tessin,Shopify,1.4
+region,Tessin,Jimdo,1.1
+region,Tessin,Infomaniak,0.7
+region,Tessin,TYPO3,0.7
+region,Tessin,Starfield,0.7
+legal_form,Raison individuelle,autre ou sur mesure,38.2
+legal_form,Raison individuelle,WordPress,30.7
+legal_form,Raison individuelle,Wix,8.7
+legal_form,Raison individuelle,Jimdo,2.7
+legal_form,Raison individuelle,Squarespace,2.5
+legal_form,Raison individuelle,Shopify,2.4
+legal_form,Raison individuelle,BaseKit,2.0
+legal_form,Raison individuelle,Joomla!,1.6
+legal_form,Raison individuelle,TYPO3,1.0
+legal_form,Raison individuelle,Infomaniak,0.6
+legal_form,Raison individuelle,Contao,0.5
+legal_form,SA,WordPress,37.5
+legal_form,SA,autre ou sur mesure,37.2
+legal_form,SA,Wix,5.6
+legal_form,SA,TYPO3,2.3
+legal_form,SA,Joomla!,1.8
+legal_form,SA,Squarespace,1.6
+legal_form,SA,Jimdo,1.4
+legal_form,SA,Shopify,1.3
+legal_form,SA,Contao,1.3
+legal_form,SA,BaseKit,0.8
+legal_form,SA,Starfield,0.5
+legal_form,SNC,autre ou sur mesure,33.0
+legal_form,SNC,WordPress,30.7
+legal_form,SNC,Wix,10.2
+legal_form,SNC,Shopify,5.7
+legal_form,SNC,Squarespace,4.5
+legal_form,SNC,Joomla!,3.4
+legal_form,SNC,Jimdo,3.4
+legal_form,Sàrl,WordPress,37.0
+legal_form,Sàrl,autre ou sur mesure,34.7
+legal_form,Sàrl,Wix,9.5
+legal_form,Sàrl,Squarespace,2.2
+legal_form,Sàrl,Shopify,2.1
+legal_form,Sàrl,Jimdo,1.8
+legal_form,Sàrl,Joomla!,1.7
+legal_form,Sàrl,BaseKit,1.3
+legal_form,Sàrl,Infomaniak,1.2
+legal_form,Sàrl,TYPO3,0.7
+legal_form,Sàrl,Contao,0.6
+legal_form,Sàrl,Starfield,0.6
+canton,AG,autre ou sur mesure,38.0
+canton,AG,WordPress,32.1
+canton,AG,Wix,8.4
+canton,AG,Shopify,2.6
+canton,AG,Joomla!,2.3
+canton,AG,BaseKit,2.3
+canton,AG,Jimdo,2.1
+canton,AG,Squarespace,1.7
+canton,AG,Contao,1.4
+canton,AG,TYPO3,1.4
+canton,AI,autre ou sur mesure,48.5
+canton,AI,WordPress,18.2
+canton,AI,Jimdo,6.1
+canton,AI,TYPO3,6.1
+canton,AI,Joomla!,3.0
+canton,AI,Wix,3.0
+canton,AI,Contao,3.0
+canton,AR,autre ou sur mesure,37.3
+canton,AR,WordPress,37.3
+canton,AR,Wix,6.0
+canton,AR,TYPO3,3.0
+canton,AR,Squarespace,3.0
+canton,AR,Jimdo,1.5
+canton,AR,Contao,1.5
+canton,BE,WordPress,34.0
+canton,BE,autre ou sur mesure,33.9
+canton,BE,Wix,6.9
+canton,BE,Jimdo,4.3
+canton,BE,Joomla!,3.3
+canton,BE,TYPO3,2.6
+canton,BE,Squarespace,1.7
+canton,BE,BaseKit,1.3
+canton,BE,Shopify,0.8
+canton,BE,Starfield,0.7
+canton,BE,Contao,0.7
+canton,BL,autre ou sur mesure,38.4
+canton,BL,WordPress,37.3
+canton,BL,Wix,7.5
+canton,BL,Jimdo,2.6
+canton,BL,TYPO3,1.9
+canton,BL,Squarespace,1.9
+canton,BL,Contao,1.5
+canton,BL,Joomla!,1.5
+canton,BL,BaseKit,1.1
+canton,BL,Shopify,0.7
+canton,BS,WordPress,36.3
+canton,BS,autre ou sur mesure,33.5
+canton,BS,Wix,10.2
+canton,BS,Squarespace,5.6
+canton,BS,Joomla!,1.4
+canton,BS,Shopify,1.4
+canton,BS,Infomaniak,1.4
+canton,BS,Jimdo,0.9
+canton,BS,TYPO3,0.9
+canton,BS,BaseKit,0.9
+canton,FR,WordPress,40.7
+canton,FR,autre ou sur mesure,33.0
+canton,FR,Wix,9.4
+canton,FR,Infomaniak,2.0
+canton,FR,Shopify,1.7
+canton,FR,Jimdo,1.3
+canton,FR,Joomla!,1.3
+canton,FR,Squarespace,0.7
+canton,FR,BaseKit,0.7
+canton,GE,WordPress,42.5
+canton,GE,autre ou sur mesure,31.7
+canton,GE,Wix,9.0
+canton,GE,Squarespace,2.8
+canton,GE,Shopify,2.5
+canton,GE,Infomaniak,1.3
+canton,GE,Starfield,1.3
+canton,GE,Joomla!,1.0
+canton,GL,WordPress,36.1
+canton,GL,autre ou sur mesure,30.6
+canton,GL,Wix,5.6
+canton,GL,Jimdo,2.8
+canton,GL,Squarespace,2.8
+canton,GR,autre ou sur mesure,38.8
+canton,GR,WordPress,31.9
+canton,GR,Wix,7.6
+canton,GR,TYPO3,3.0
+canton,GR,Squarespace,3.0
+canton,GR,BaseKit,2.7
+canton,GR,Shopify,2.3
+canton,GR,Contao,1.9
+canton,GR,Jimdo,1.5
+canton,GR,Joomla!,1.5
+canton,JU,autre ou sur mesure,43.1
+canton,JU,WordPress,41.5
+canton,JU,Wix,6.2
+canton,JU,Infomaniak,3.1
+canton,JU,BaseKit,1.5
+canton,LU,WordPress,37.3
+canton,LU,autre ou sur mesure,33.5
+canton,LU,Wix,7.9
+canton,LU,Jimdo,3.7
+canton,LU,Squarespace,2.4
+canton,LU,Joomla!,2.2
+canton,LU,Shopify,2.1
+canton,LU,BaseKit,2.1
+canton,LU,TYPO3,0.9
+canton,LU,Contao,0.7
+canton,NE,WordPress,39.9
+canton,NE,autre ou sur mesure,33.1
+canton,NE,Wix,8.1
+canton,NE,Joomla!,3.4
+canton,NE,Infomaniak,2.0
+canton,NE,Squarespace,1.4
+canton,NE,Shopify,1.4
+canton,NE,Starfield,1.4
+canton,NW,autre ou sur mesure,40.5
+canton,NW,WordPress,36.5
+canton,NW,Wix,9.5
+canton,NW,Joomla!,4.1
+canton,NW,Squarespace,2.7
+canton,NW,Jimdo,1.4
+canton,NW,Contao,1.4
+canton,OW,WordPress,38.6
+canton,OW,autre ou sur mesure,29.8
+canton,OW,Joomla!,7.0
+canton,OW,Wix,7.0
+canton,OW,Jimdo,3.5
+canton,OW,Shopify,3.5
+canton,OW,BaseKit,1.8
+canton,OW,Squarespace,1.8
+canton,SG,WordPress,36.7
+canton,SG,autre ou sur mesure,35.1
+canton,SG,Wix,7.8
+canton,SG,TYPO3,2.3
+canton,SG,Contao,2.1
+canton,SG,Shopify,2.0
+canton,SG,Jimdo,1.8
+canton,SG,Squarespace,1.6
+canton,SG,BaseKit,1.1
+canton,SG,Joomla!,0.7
+canton,SH,WordPress,43.6
+canton,SH,autre ou sur mesure,25.5
+canton,SH,Wix,9.6
+canton,SH,Contao,3.2
+canton,SH,TYPO3,3.2
+canton,SH,BaseKit,2.1
+canton,SH,Jimdo,2.1
+canton,SH,Shopify,1.1
+canton,SH,Infomaniak,1.1
+canton,SO,autre ou sur mesure,40.4
+canton,SO,WordPress,33.1
+canton,SO,Wix,8.5
+canton,SO,Jimdo,2.9
+canton,SO,BaseKit,2.6
+canton,SO,Shopify,2.2
+canton,SO,Joomla!,1.5
+canton,SO,Squarespace,1.5
+canton,SO,TYPO3,1.1
+canton,SO,Contao,0.4
+canton,SZ,WordPress,37.1
+canton,SZ,autre ou sur mesure,34.7
+canton,SZ,Wix,8.5
+canton,SZ,Squarespace,2.4
+canton,SZ,BaseKit,2.1
+canton,SZ,Joomla!,1.8
+canton,SZ,Starfield,1.5
+canton,SZ,Jimdo,1.5
+canton,SZ,Shopify,0.9
+canton,SZ,Contao,0.6
+canton,SZ,TYPO3,0.6
+canton,TG,WordPress,36.5
+canton,TG,autre ou sur mesure,34.2
+canton,TG,Wix,6.8
+canton,TG,Contao,3.2
+canton,TG,Joomla!,2.6
+canton,TG,BaseKit,2.6
+canton,TG,Jimdo,2.6
+canton,TG,Squarespace,1.0
+canton,TG,Shopify,1.0
+canton,TG,TYPO3,1.0
+canton,TI,WordPress,42.5
+canton,TI,autre ou sur mesure,37.7
+canton,TI,Wix,5.2
+canton,TI,Squarespace,2.0
+canton,TI,Joomla!,1.8
+canton,TI,Shopify,1.4
+canton,TI,Jimdo,1.1
+canton,TI,Infomaniak,0.7
+canton,TI,TYPO3,0.7
+canton,TI,Starfield,0.7
+canton,UR,autre ou sur mesure,42.4
+canton,UR,WordPress,18.2
+canton,UR,Wix,15.2
+canton,UR,Joomla!,6.1
+canton,UR,TYPO3,3.0
+canton,UR,Shopify,3.0
+canton,UR,Jimdo,3.0
+canton,UR,BaseKit,3.0
+canton,VD,WordPress,42.5
+canton,VD,autre ou sur mesure,32.7
+canton,VD,Wix,7.0
+canton,VD,Infomaniak,2.6
+canton,VD,Squarespace,2.1
+canton,VD,Shopify,1.9
+canton,VD,TYPO3,1.2
+canton,VD,Joomla!,0.8
+canton,VD,Starfield,0.8
+canton,VS,autre ou sur mesure,39.4
+canton,VS,WordPress,35.4
+canton,VS,Wix,8.3
+canton,VS,Infomaniak,3.2
+canton,VS,Joomla!,1.6
+canton,VS,Shopify,1.1
+canton,VS,TYPO3,0.8
+canton,VS,BaseKit,0.5
+canton,VS,Starfield,0.5
+canton,ZG,autre ou sur mesure,43.3
+canton,ZG,WordPress,30.5
+canton,ZG,Wix,9.5
+canton,ZG,Shopify,2.8
+canton,ZG,Squarespace,1.9
+canton,ZG,Jimdo,1.3
+canton,ZG,Joomla!,0.9
+canton,ZG,TYPO3,0.6
+canton,ZH,autre ou sur mesure,37.6
+canton,ZH,WordPress,33.9
+canton,ZH,Wix,8.1
+canton,ZH,Shopify,2.7
+canton,ZH,Squarespace,2.6
+canton,ZH,Jimdo,1.5
+canton,ZH,TYPO3,1.5
+canton,ZH,Joomla!,1.4
+canton,ZH,BaseKit,1.2
+canton,ZH,Contao,1.1

@@ -1,0 +1,4 @@
+region,region_en,companies,with_proven_site_pct,uncertain_pct,no_address_pct,robots_refusal_pct
+Suisse alémanique,German-speaking,28527,25.6,31.3,43.1,2.2
+Romandie,French-speaking (Romandie),11106,20.4,32.7,46.9,2.9
+Tessin,Ticino,2208,20.0,35.1,44.9,2.5
