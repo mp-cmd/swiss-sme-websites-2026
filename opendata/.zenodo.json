@@ -1,0 +1,17 @@
+{
+  "title": "Swiss SME Websites 2026: 10,000 sites audited, canton by canton",
+  "upload_type": "dataset",
+  "description": "<p>Aggregated measurements of 10,000 websites of Swiss small and medium-sized businesses, drawn at random from the Swiss commercial register (Zefix, via LINDAS open data) in September 2026. Measures: HTTPS, mobile viewport, structured data (JSON-LD), meta description, title length, robots.txt, sitemap.xml, llms.txt, privacy page, footer copyright year, platform and HTML reception time, per canton, language region and legal form. Proportions only: no company name, no website address, no figure for a group of fewer than 30 sites.</p><p>Study page: <a href=\"https://hallebardier.com/en/swiss-sme-website-study/\">https://hallebardier.com/en/swiss-sme-website-study/</a></p>",
+  "creators": [
+    {"name": "Perriard, Maxime", "affiliation": "Hallebardier"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "publication_date": "2026-09-27",
+  "language": "eng",
+  "keywords": ["Switzerland", "SME", "websites", "structured data", "llms.txt", "data protection", "web measurement"],
+  "related_identifiers": [
+    {"identifier": "https://hallebardier.com/en/swiss-sme-website-study/", "relation": "isDocumentedBy", "resource_type": "publication-other"},
+    {"identifier": "https://hallebardier.com/etude-pme-2026.json", "relation": "isDerivedFrom", "resource_type": "dataset"}
+  ]
+}
